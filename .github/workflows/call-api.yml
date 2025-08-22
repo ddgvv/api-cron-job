@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Call the API
         run: |
-          curl -X GET "https://easytool-iunr.onrender.com/"
+          curl -X GET "https://api.render.com/deploy/srv-d1bemfgdl3ps73ekge50?key=N3rSgFn-EIw"
